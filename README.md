@@ -1,3 +1,7 @@
+<div align="center">
+  <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/francocunhaduarte/">Franco</a> 👋</h1>
+</div>
+
 # 💫 About Me:
 Hello! 👋 I am a 19-year-old frontend developer born in Mar del Plata, Argentina. 🇦🇷 I love the world of web development, and I have solid knowledge in HTML, CSS, JavaScript, and PHP. 💻 My education at the National University of Central Buenos Aires Province 🎓 has provided me with a strong foundation, and my focus on being self-taught drives me to keep growing every day. 📚<br><br>I also have knowledge of other technologies like Git, GitHub, PHP, and SQL.<br><br>I enjoy working in teams and participating in innovative projects that allow me to contribute my skills and keep learning from the best. 🚀
 
