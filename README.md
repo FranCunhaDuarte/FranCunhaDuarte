@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/francocunhaduarte/">Franco</a> 👋</h1>
+  <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/francocunhaduarte/" target="_blank">Franco</a> 👋</h1>
 </div>
 
 # 💫 About Me:
